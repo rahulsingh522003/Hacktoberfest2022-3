@@ -1,0 +1,5 @@
+---
+name: RAHUL SINGH
+institution/company: INDIAN INSTITUTE OF TECHNOLOGY (BHU), VARANASI, UTTAR PRADESH, INDIA
+github: rahulsingh522003
+---
